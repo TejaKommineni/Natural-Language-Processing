@@ -260,7 +260,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Tennessee OMEGA
@@ -1476,7 +1476,7 @@ POS: NNP
 POSCON: TO ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Poland shot
@@ -4308,7 +4308,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington D.C.
@@ -4580,7 +4580,7 @@ POS: NNP
 POSCON: NNP VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: had
 WORDCON: Virginia UNK
@@ -5388,7 +5388,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Gov.
 WORDCON: Texas John
@@ -5964,7 +5964,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Theater
 WORDCON: Texas ,
@@ -8116,7 +8116,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Texas UNK
@@ -8988,7 +8988,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Israel OMEGA
@@ -9140,7 +9140,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: School
 WORDCON: Texas Book
@@ -9420,7 +9420,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: School
 WORDCON: Texas Book
@@ -11388,7 +11388,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sen.
 WORDCON: U.S. Robert
@@ -11908,7 +11908,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: California death
@@ -12196,7 +12196,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: California death
@@ -13852,7 +13852,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Washington station
@@ -13948,7 +13948,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington D.C.
@@ -15300,7 +15300,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Peru UNK
@@ -16300,7 +16300,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Arizona death
@@ -17948,7 +17948,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Texas UNK
@@ -18108,7 +18108,7 @@ POS: NNP
 POSCON: NN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Theater
 WORDCON: Texas ,
@@ -18924,7 +18924,7 @@ POS: NNP
 POSCON: IN NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: U.S. John
@@ -19116,7 +19116,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington Lincoln
@@ -19412,7 +19412,7 @@ POS: NNP
 POSCON: IN -RRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -RRB-
 WORDCON: Virginia .
@@ -21660,7 +21660,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Washington OMEGA
@@ -21748,7 +21748,7 @@ POS: NNP
 POSCON: VBG NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sen.
 WORDCON: U.S. Robert
@@ -22628,7 +22628,7 @@ POS: NNP
 POSCON: CD JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: California election
@@ -23516,7 +23516,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington D.C.
@@ -24116,7 +24116,7 @@ POS: NNP
 POSCON: VBD POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: California Democratic
@@ -25124,7 +25124,7 @@ POS: NNP
 POSCON: VBN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Gov.
 WORDCON: Texas John
@@ -25348,7 +25348,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: governor
 WORDCON: Texas .
@@ -25660,7 +25660,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: governor
 WORDCON: Texas ,
@@ -30300,7 +30300,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: UNK border
@@ -31436,7 +31436,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: UNK Security
@@ -33500,7 +33500,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Democrat
 WORDCON: Ohio ,
@@ -35028,7 +35028,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington D.C.
@@ -37684,7 +37684,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Israel and
@@ -37740,7 +37740,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Israel UNK
@@ -38420,7 +38420,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: tower
 WORDCON: Texas UNK
@@ -40076,7 +40076,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Theater
 WORDCON: Texas ,
@@ -40428,7 +40428,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: School
 WORDCON: Texas Book
@@ -44476,7 +44476,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Gov.
 WORDCON: Texas John
@@ -46980,7 +46980,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: School
 WORDCON: Texas Book
@@ -48708,7 +48708,7 @@ POS: NNP
 POSCON: CC CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: nor
 WORDCON: Cuba any
@@ -48732,7 +48732,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: government
 WORDCON: U.S. agency
@@ -52252,7 +52252,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: television
 WORDCON: Illinois for
@@ -52596,7 +52596,7 @@ POS: NNP
 POSCON: VB NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sen.
 WORDCON: Illinois Paul
@@ -53572,7 +53572,7 @@ POS: NNP
 POSCON: VB NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sen.
 WORDCON: Illinois Paul
@@ -53876,7 +53876,7 @@ POS: NNP
 POSCON: VBN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Illinois OMEGA
@@ -53940,7 +53940,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Poland who
@@ -54100,7 +54100,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Hungary who
@@ -54244,7 +54244,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: China who
@@ -54676,7 +54676,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -54964,7 +54964,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -56540,7 +56540,7 @@ POS: NNP
 POSCON: NN NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: vice
 WORDCON: U.S. president
@@ -57052,7 +57052,7 @@ POS: NNP
 POSCON: PP$ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: hometown
 WORDCON: UNK to
@@ -57348,7 +57348,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Oklahoma '
@@ -57980,7 +57980,7 @@ POS: NNP
 POSCON: IN NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: forces
 WORDCON: U.S. in
@@ -58004,7 +58004,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Vietnam a
@@ -58100,7 +58100,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: president
 WORDCON: U.S. ,
@@ -58268,7 +58268,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Texas has
@@ -58524,7 +58524,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Oklahoma UNK
@@ -59108,7 +59108,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington who
@@ -59332,7 +59332,7 @@ POS: NNP
 POSCON: , NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Williams
 WORDCON: Tennessee and
@@ -60724,7 +60724,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -60932,7 +60932,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -61188,7 +61188,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -61324,7 +61324,7 @@ POS: NNP
 POSCON: JJ ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Minnesota where
@@ -61636,7 +61636,7 @@ POS: NNP
 POSCON: NNP NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: native
 WORDCON: Jersey ,
@@ -62060,7 +62060,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK Ohio
@@ -62076,7 +62076,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -62252,7 +62252,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -62324,7 +62324,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: '
 WORDCON: UNK `
@@ -63020,7 +63020,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -63492,7 +63492,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Oklahoma Arizona
@@ -63508,7 +63508,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Arizona Texas
@@ -63524,7 +63524,7 @@ POS: NNP
 POSCON: CC IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: as
 WORDCON: Texas an
@@ -64220,7 +64220,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Virginia OMEGA
@@ -64532,7 +64532,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Austria at
@@ -66500,7 +66500,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -66652,7 +66652,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Tech
 WORDCON: Texas University
@@ -66884,7 +66884,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Texas Richardson
@@ -67452,7 +67452,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -67748,7 +67748,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Kentucky OMEGA
@@ -68084,7 +68084,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -68676,7 +68676,7 @@ POS: NNP
 POSCON: , NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Washington ,
@@ -69020,7 +69020,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -69204,7 +69204,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -70676,7 +70676,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK in
@@ -71844,7 +71844,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -72100,7 +72100,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -72364,7 +72364,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK Ohio
@@ -72380,7 +72380,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -72716,7 +72716,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -72980,7 +72980,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -73292,7 +73292,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Austria at
@@ -74508,7 +74508,7 @@ POS: NNP
 POSCON: NN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Williams
 WORDCON: Tennessee was
@@ -74828,7 +74828,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: city
 WORDCON: California for
@@ -75420,7 +75420,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -76012,7 +76012,7 @@ POS: NNP
 POSCON: PHIPOS VBN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: born
 WORDCON: Illinois UNK
@@ -76956,7 +76956,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -77164,7 +77164,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -77204,7 +77204,7 @@ POS: NNP
 POSCON: , JJ
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: naval
 WORDCON: U.S. UNK
@@ -77548,7 +77548,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK Ohio
@@ -77564,7 +77564,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -77716,7 +77716,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -78004,7 +78004,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -78140,7 +78140,7 @@ POS: NNP
 POSCON: , VBN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: born
 WORDCON: Georgia ,
@@ -78444,7 +78444,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -80964,7 +80964,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Kentucky OMEGA
@@ -81188,7 +81188,7 @@ POS: NNP
 POSCON: NNP NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: native
 WORDCON: Jersey ,
@@ -83364,7 +83364,7 @@ POS: NNP
 POSCON: NNP -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Washington first
@@ -83956,7 +83956,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Ohio UNK
@@ -83988,7 +83988,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: River
 WORDCON: Ohio .
@@ -84428,7 +84428,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Utah OMEGA
@@ -85548,7 +85548,7 @@ POS: NNP
 POSCON: , NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Highway
 WORDCON: U.S. UNK
@@ -86348,7 +86348,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: UNK did
@@ -86964,7 +86964,7 @@ POS: NNP
 POSCON: NN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: after
 WORDCON: Ohio it
@@ -87364,7 +87364,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Virginia but
@@ -87460,7 +87460,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Jersey so
@@ -87892,7 +87892,7 @@ POS: NNP
 POSCON: PHIPOS NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Academy
 WORDCON: Pennsylvania of
@@ -88108,7 +88108,7 @@ POS: NNP
 POSCON: DT VBN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: born
 WORDCON: Minnesota artist
@@ -90252,7 +90252,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Ireland would
@@ -90628,7 +90628,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Embassy
 WORDCON: U.S. will
@@ -90980,7 +90980,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: life
 WORDCON: Kentucky sentence
@@ -91460,7 +91460,7 @@ POS: NNP
 POSCON: DT MD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: will
 WORDCON: UNK give
@@ -91708,7 +91708,7 @@ POS: NNP
 POSCON: JJ NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: U.S. will
@@ -93340,7 +93340,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sen.
 WORDCON: Kansas Bob
@@ -94268,7 +94268,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: state
 WORDCON: Washington and
@@ -94300,7 +94300,7 @@ POS: NNP
 POSCON: JJ .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Idaho OMEGA
@@ -94388,7 +94388,7 @@ POS: NNP
 POSCON: VBN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Thailand it
@@ -94548,7 +94548,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Thailand UNK
@@ -95972,7 +95972,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -96716,7 +96716,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK is
@@ -98220,7 +98220,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Illinois UNK
@@ -99716,7 +99716,7 @@ POS: NNP
 POSCON: PHIPOS NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sen.
 WORDCON: Tennessee Albert
@@ -99796,7 +99796,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Gov.
 WORDCON: Arizona Bruce
@@ -99948,7 +99948,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Supreme
 WORDCON: Florida Court
@@ -100300,7 +100300,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Iran which
@@ -100372,7 +100372,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Iraq attacks
@@ -100900,7 +100900,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: UNK
 WORDCON: Texas would
@@ -102052,7 +102052,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: UNK president
@@ -102668,7 +102668,7 @@ POS: NNP
 POSCON: PHIPOS POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Alabama NAACP
@@ -103141,4 +103141,3 @@ POSCON: NNP OMEGAPOS
 ABBR: no
 CAP: yes
 LOCATION: no
-

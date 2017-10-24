@@ -1612,7 +1612,7 @@ POS: NNP
 POSCON: PHIPOS NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: television
 WORDCON: Israel rejected
@@ -4036,7 +4036,7 @@ POS: NNP
 POSCON: NNP NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Bills
 WORDCON: U.S. OMEGA
@@ -4068,7 +4068,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Italy AP
@@ -4180,7 +4180,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: currency
 WORDCON: U.S. ,
@@ -4308,7 +4308,7 @@ POS: NNP
 POSCON: JJ IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: after
 WORDCON: Italy being
@@ -4788,7 +4788,7 @@ POS: NNP
 POSCON: JJ CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Italy Campania
@@ -5076,7 +5076,7 @@ POS: NNP
 POSCON: IN NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: dollars
 WORDCON: U.S. was
@@ -5564,7 +5564,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: establishment
 WORDCON: Washington .
@@ -6292,7 +6292,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: on
 WORDCON: Washington Dec.
@@ -6548,7 +6548,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: in
 WORDCON: Virginia Charlottesville
@@ -6956,7 +6956,7 @@ POS: NNP
 POSCON: TO CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: or
 WORDCON: Iran the
@@ -7348,7 +7348,7 @@ POS: NNP
 POSCON: NNP POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Washington caution
@@ -8668,7 +8668,7 @@ POS: NNP
 POSCON: CC IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: as
 WORDCON: Washington they
@@ -8948,7 +8948,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: professor
 WORDCON: Texas who
@@ -9132,7 +9132,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: solicitor
 WORDCON: U.S. .
@@ -9676,7 +9676,7 @@ POS: NNP
 POSCON: NN NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Circuit
 WORDCON: U.S. Court
@@ -9796,7 +9796,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Circuit
 WORDCON: U.S. Court
@@ -10692,7 +10692,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: law
 WORDCON: Texas professor
@@ -12204,7 +12204,7 @@ POS: NNP
 POSCON: DT JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: legal
 WORDCON: Washington community
@@ -14164,7 +14164,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: senator
 WORDCON: Arizona supported
@@ -17204,7 +17204,7 @@ POS: NNP
 POSCON: VBD NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: forces
 WORDCON: U.S. .
@@ -17532,7 +17532,7 @@ POS: NNP
 POSCON: CC NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: scholars
 WORDCON: U.S. and
@@ -18004,7 +18004,7 @@ POS: NNP
 POSCON: IN JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: capable
 WORDCON: Cuba of
@@ -18516,7 +18516,7 @@ POS: NNP
 POSCON: IN RB
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: probably
 WORDCON: Cuba did
@@ -18772,7 +18772,7 @@ POS: NNP
 POSCON: TO ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Cuba who
@@ -19188,7 +19188,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Italy AP
@@ -19388,7 +19388,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: snowless
 WORDCON: Italy and
@@ -21116,7 +21116,7 @@ POS: NNP
 POSCON: JJ RB
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: also
 WORDCON: Italy touched
@@ -21716,7 +21716,7 @@ POS: NNP
 POSCON: JJ IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: in
 WORDCON: Italy mid-January
@@ -21980,7 +21980,7 @@ POS: NNP
 POSCON: NN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: France Austria
@@ -21996,7 +21996,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Austria Switzerland
@@ -22012,7 +22012,7 @@ POS: NNP
 POSCON: CC VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: were
 WORDCON: Switzerland rescheduled
@@ -26100,7 +26100,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: District
 WORDCON: U.S. Oliver
@@ -26356,7 +26356,7 @@ POS: NNP
 POSCON: , :
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ;
 WORDCON: Alaska OMEGA
@@ -26860,7 +26860,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -27004,7 +27004,7 @@ POS: NNP
 POSCON: , :
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ;
 WORDCON: Alaska OMEGA
@@ -27100,7 +27100,7 @@ POS: NNP
 POSCON: PHIPOS NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Coast
 WORDCON: U.S. Guard
@@ -29580,7 +29580,7 @@ POS: NNPS
 POSCON: JJ JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: first
 WORDCON: Philippines lady
@@ -34252,7 +34252,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Armenia OMEGA
@@ -34724,7 +34724,7 @@ POS: NNP
 POSCON: VBD NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: sopranos
 WORDCON: U.S. June
@@ -36564,7 +36564,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Austria OMEGA
@@ -36596,7 +36596,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Idaho AP
@@ -37500,7 +37500,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: town
 WORDCON: Idaho .
@@ -37540,7 +37540,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Case
 WORDCON: Texas Of
@@ -38068,7 +38068,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -38124,7 +38124,7 @@ POS: NNP
 POSCON: IN VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: argued
 WORDCON: Texas that
@@ -38492,7 +38492,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Texas then
@@ -39868,7 +39868,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: death
 WORDCON: Texas penalty
@@ -40164,7 +40164,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: law
 WORDCON: Texas would
@@ -40572,7 +40572,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: capital
 WORDCON: Texas punishment
@@ -40828,7 +40828,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: law
 WORDCON: Texas gives
@@ -41356,7 +41356,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Prisons
 WORDCON: Georgia and
@@ -41916,7 +41916,7 @@ POS: NNP
 POSCON: CD NNS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: utilities
 WORDCON: Pennsylvania from
@@ -43036,7 +43036,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Monument
 WORDCON: Washington ,
@@ -43332,7 +43332,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: shore
 WORDCON: Virginia .
@@ -43916,7 +43916,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Sea
 WORDCON: China .
@@ -44348,7 +44348,7 @@ POS: NNP
 POSCON: IN TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Grenada the
@@ -44372,7 +44372,7 @@ POS: NNP
 POSCON: DT CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Washington Moscow
@@ -46332,7 +46332,7 @@ POS: NNP
 POSCON: VBG ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Afghanistan the
@@ -46412,7 +46412,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Cambodia and
@@ -46540,7 +46540,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Angola OMEGA
@@ -49652,7 +49652,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Downing
 WORDCON: U.S. of
@@ -49836,7 +49836,7 @@ POS: NNP
 POSCON: CC VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: joined
 WORDCON: France in
@@ -49956,7 +49956,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Navy
 WORDCON: U.S. 's
@@ -50140,7 +50140,7 @@ POS: NNP
 POSCON: , NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: officials
 WORDCON: U.S. said
@@ -50476,7 +50476,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: attack
 WORDCON: U.S. on
@@ -50540,7 +50540,7 @@ POS: NNP
 POSCON: IN VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: claims
 WORDCON: Washington has
@@ -50636,7 +50636,7 @@ POS: NNP
 POSCON: PHIPOS NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: officials
 WORDCON: U.S. said
@@ -50804,7 +50804,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Libya which
@@ -50828,7 +50828,7 @@ POS: NNP
 POSCON: WDT VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: accuses
 WORDCON: Washington of
@@ -50884,7 +50884,7 @@ POS: NNP
 POSCON: PHIPOS VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: joined
 WORDCON: Canada the
@@ -51052,7 +51052,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: China Ethiopia
@@ -51068,7 +51068,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Ethiopia Colombia
@@ -51084,7 +51084,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Colombia Malaysia
@@ -51100,7 +51100,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Malaysia Algeria
@@ -51116,7 +51116,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Algeria Nepal
@@ -51132,7 +51132,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Nepal Senegal
@@ -51148,7 +51148,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Senegal Yugoslavia
@@ -51164,7 +51164,7 @@ POS: NNP
 POSCON: CC NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: voting
 WORDCON: Yugoslavia in
@@ -51204,7 +51204,7 @@ POS: NNP
 POSCON: PHIPOS CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Finland Brazil
@@ -51220,7 +51220,7 @@ POS: NNP
 POSCON: CC VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: abstained
 WORDCON: Brazil .
@@ -51388,7 +51388,7 @@ POS: NNP
 POSCON: CC VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: was
 WORDCON: France enough
@@ -51564,7 +51564,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 6th
 WORDCON: U.S. Fleet
@@ -51692,7 +51692,7 @@ POS: NNP
 POSCON: PHIPOS NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: sources
 WORDCON: U.S. ,
@@ -51964,7 +51964,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Libya OMEGA
@@ -51988,7 +51988,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Ambassador
 WORDCON: U.S. Herbert
@@ -52132,7 +52132,7 @@ POS: NNP
 POSCON: IN VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: confirmed
 WORDCON: Washington it
@@ -52668,7 +52668,7 @@ POS: NNP
 POSCON: , NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Ambassador
 WORDCON: U.S. Vernon
@@ -52844,7 +52844,7 @@ POS: NNP
 POSCON: PHIPOS POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Libya deputy
@@ -53068,7 +53068,7 @@ POS: NNP
 POSCON: DT NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: pilots
 WORDCON: U.S. acted
@@ -53308,7 +53308,7 @@ POS: NNP
 POSCON: PHIPOS POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Canada ambassador
@@ -53452,7 +53452,7 @@ POS: NNP
 POSCON: PHIPOS POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: France deputy
@@ -53564,7 +53564,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington U.S
@@ -53708,7 +53708,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: as
 WORDCON: Libya one
@@ -54836,7 +54836,7 @@ POS: NNP
 POSCON: PHIPOS VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: was
 WORDCON: Washington responsible
@@ -55588,7 +55588,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Afghanistan the
@@ -55644,7 +55644,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Iran Iraq
@@ -55660,7 +55660,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Iraq the
@@ -55708,7 +55708,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Angola South
@@ -55764,7 +55764,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Namibia OMEGA
@@ -55876,7 +55876,7 @@ POS: NNP
 POSCON: CC .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Cambodia OMEGA
@@ -56308,7 +56308,7 @@ POS: NNP
 POSCON: DT NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: arrears
 WORDCON: U.S. ;
@@ -57372,7 +57372,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Iran $7.9
@@ -57412,7 +57412,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Argentina $5.2
@@ -57452,7 +57452,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Poland $4.3
@@ -57492,7 +57492,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Romania $4
@@ -57532,7 +57532,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Yugoslavia $3.5
@@ -57572,7 +57572,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Israel $3.1
@@ -57612,7 +57612,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Libya $2.8
@@ -57652,7 +57652,7 @@ POS: NNP
 POSCON: PHIPOS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Peru $1.4
@@ -57700,7 +57700,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Hungary $1.2
@@ -57748,7 +57748,7 @@ POS: NNP
 POSCON: RB ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Canada Norway
@@ -57764,7 +57764,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Norway Finland
@@ -57780,7 +57780,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Finland Iceland
@@ -57796,7 +57796,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Iceland Sweden
@@ -57812,7 +57812,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Sweden Denmark
@@ -57828,7 +57828,7 @@ POS: NNP
 POSCON: CC VBP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: have
 WORDCON: Denmark already
@@ -62604,7 +62604,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Daily
 WORDCON: Arizona Star
@@ -63284,7 +63284,7 @@ POS: NNP
 POSCON: `` IN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: at
 WORDCON: U.S. war
@@ -64100,7 +64100,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Arizona they
@@ -66212,7 +66212,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Nicaragua Indonesia
@@ -66228,7 +66228,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Indonesia deforestation
@@ -66260,7 +66260,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Brazil Madagascar
@@ -66276,7 +66276,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Madagascar the
@@ -67388,7 +67388,7 @@ POS: NNP
 POSCON: JJR NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Mississippi and
@@ -67420,7 +67420,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Tennessee .
@@ -67492,7 +67492,7 @@ POS: NNP
 POSCON: JJ TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Florida the
@@ -67580,7 +67580,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Tennessee Alabama
@@ -67596,7 +67596,7 @@ POS: NNP
 POSCON: CC .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Alabama OMEGA
@@ -67644,7 +67644,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Minnesota North
@@ -67684,7 +67684,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Colorado Utah
@@ -67700,7 +67700,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Utah Idaho
@@ -67716,7 +67716,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Idaho Washington
@@ -67732,7 +67732,7 @@ POS: NNP
 POSCON: CC .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Washington OMEGA
@@ -67788,7 +67788,7 @@ POS: NNP
 POSCON: NNP IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: while
 WORDCON: Michigan rain
@@ -67988,7 +67988,7 @@ POS: NNP
 POSCON: NNP .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Mexico OMEGA
@@ -68044,7 +68044,7 @@ POS: NNP
 POSCON: IN JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: late
 WORDCON: California Wednesday
@@ -68196,7 +68196,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Colorado 13
@@ -68452,7 +68452,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Vermont OMEGA
@@ -68620,7 +68620,7 @@ POS: NNP
 POSCON: DT CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Ohio Tennessee
@@ -68636,7 +68636,7 @@ POS: NNP
 POSCON: CC NNS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: valleys
 WORDCON: Tennessee ,
@@ -68660,7 +68660,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Georgia Alabama
@@ -68676,7 +68676,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Alabama Illinois
@@ -68692,7 +68692,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Illinois Missouri
@@ -68708,7 +68708,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Missouri the
@@ -68740,7 +68740,7 @@ POS: NNP
 POSCON: JJR NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Mississippi ,
@@ -68764,7 +68764,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Texas the
@@ -68900,7 +68900,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Michigan the
@@ -68932,7 +68932,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Mississippi ,
@@ -69020,7 +69020,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Panhandle
 WORDCON: Texas and
@@ -69060,7 +69060,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Wyoming OMEGA
@@ -69156,7 +69156,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Jersey the
@@ -69228,7 +69228,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Nebraska portions
@@ -69260,7 +69260,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Texas the
@@ -69452,7 +69452,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Florida Texas
@@ -69468,7 +69468,7 @@ POS: NNP
 POSCON: CC TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Texas hit
@@ -69716,7 +69716,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -70084,7 +70084,7 @@ POS: NNP
 POSCON: , CD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 11
 WORDCON: Maine fair
@@ -70116,7 +70116,7 @@ POS: NNP
 POSCON: PHIPOS CD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 39
 WORDCON: Washington rain.
@@ -70292,7 +70292,7 @@ POS: NNP
 POSCON: PHIPOS NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: City
 WORDCON: Kansas 29
@@ -71948,7 +71948,7 @@ POS: NNP
 POSCON: PHIPOS NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: officials
 WORDCON: U.S. wanted
@@ -72124,7 +72124,7 @@ POS: NNP
 POSCON: NNP NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: home
 WORDCON: Jersey and
@@ -72908,7 +72908,7 @@ POS: NNP
 POSCON: WP$ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: experience
 WORDCON: Washington includes
@@ -73940,7 +73940,7 @@ POS: NNP
 POSCON: VBD NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: officials
 WORDCON: U.S. learned
@@ -77964,7 +77964,7 @@ POS: NNP
 POSCON: NNP MD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: will
 WORDCON: California conserve
@@ -82132,7 +82132,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Geological
 WORDCON: U.S. Survey
@@ -82164,7 +82164,7 @@ POS: NNP
 POSCON: , NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Polytechnic
 WORDCON: Virginia Institute
@@ -83708,7 +83708,7 @@ POS: NNP
 POSCON: VB TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Libya support
@@ -83852,7 +83852,7 @@ POS: NNP
 POSCON: NNP CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Ireland unite
@@ -85204,7 +85204,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: France AP
@@ -85820,7 +85820,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: for
 WORDCON: Spain the
@@ -86172,7 +86172,7 @@ POS: NNP
 POSCON: JJ VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: arrested
 WORDCON: France dozens
@@ -86404,7 +86404,7 @@ POS: NNP
 POSCON: JJ IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: in
 WORDCON: France Poitiers
@@ -86444,7 +86444,7 @@ POS: NNP
 POSCON: JJ .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: France OMEGA
@@ -86732,7 +86732,7 @@ POS: NNP
 POSCON: IN VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: told
 WORDCON: Spain reporters
@@ -87092,7 +87092,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: as
 WORDCON: Spain a
@@ -87276,7 +87276,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: France Spain
@@ -87292,7 +87292,7 @@ POS: NNP
 POSCON: CC VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: said
 WORDCON: Spain the
@@ -89492,7 +89492,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Maryland House
@@ -92204,7 +92204,7 @@ POS: NNP
 POSCON: VBD NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Fish
 WORDCON: U.S. and
@@ -96012,7 +96012,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Idaho OMEGA
@@ -99004,7 +99004,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Maine AP
@@ -101852,7 +101852,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Ohio and
@@ -101908,7 +101908,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Ohio OMEGA
@@ -101988,7 +101988,7 @@ POS: NNP
 POSCON: CD NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: reactors
 WORDCON: U.S. capable
@@ -103036,7 +103036,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Falls
 WORDCON: Idaho ,
@@ -103060,7 +103060,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Idaho OMEGA
@@ -103524,7 +103524,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: solicitor
 WORDCON: U.S. in
@@ -104044,7 +104044,7 @@ POS: NNP
 POSCON: NN NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Circuit
 WORDCON: U.S. Court
@@ -104148,7 +104148,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Circuit
 WORDCON: U.S. Court
@@ -104532,7 +104532,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: law
 WORDCON: Texas professor
@@ -106556,7 +106556,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: before
 WORDCON: Texas the
@@ -107356,7 +107356,7 @@ POS: NNP
 POSCON: JJS .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Armenia OMEGA
@@ -107788,7 +107788,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Armenia OMEGA
@@ -108524,7 +108524,7 @@ POS: NNP
 POSCON: , POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Armenia second-largest
@@ -109332,7 +109332,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: O
 WORDCON: U.S. and
@@ -112844,7 +112844,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Ohio AP
@@ -115380,7 +115380,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Italy and
@@ -115444,7 +115444,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: France OMEGA
@@ -115916,7 +115916,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Hawaii on
@@ -116156,7 +116156,7 @@ POS: NNP
 POSCON: JJ NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: bombing
 WORDCON: U.S. raid
@@ -117292,7 +117292,7 @@ POS: NNP
 POSCON: CD NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: battle
 WORDCON: U.S. deaths
@@ -117324,7 +117324,7 @@ POS: NNP
 POSCON: IN DT
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: the
 WORDCON: Italy first
@@ -117548,7 +117548,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: France of
@@ -119708,7 +119708,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Vietnam U.S.
@@ -119724,7 +119724,7 @@ POS: NNP
 POSCON: , NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: officials
 WORDCON: U.S. stressed
@@ -119892,7 +119892,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: with
 WORDCON: Vietnam the
@@ -120564,7 +120564,7 @@ POS: NNP
 POSCON: DT ,
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: U.S. '
@@ -121036,7 +121036,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: embassy
 WORDCON: U.S. .
@@ -121108,7 +121108,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Immigration
 WORDCON: U.S. and
@@ -121564,7 +121564,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: but
 WORDCON: Israel who
@@ -121772,7 +121772,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: official
 WORDCON: U.S. said
@@ -124108,7 +124108,7 @@ POS: NNP
 POSCON: JJ JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: last
 WORDCON: Namibia year
@@ -126284,7 +126284,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Farm
 WORDCON: Pennsylvania Show
@@ -128012,7 +128012,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Dental
 WORDCON: Michigan Society
@@ -138116,7 +138116,7 @@ POS: NNP
 POSCON: CC IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: within
 WORDCON: Canada the
@@ -139036,7 +139036,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Gov.
 WORDCON: Louisiana Earl
@@ -144636,7 +144636,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Action
 WORDCON: U.S. Against
@@ -144692,7 +144692,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Tunisia AP
@@ -144780,7 +144780,7 @@ POS: NNP
 POSCON: DT VBG
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: downing
 WORDCON: U.S. of
@@ -145556,7 +145556,7 @@ POS: NNP
 POSCON: IN WDT
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: that
 WORDCON: Libya could
@@ -145724,7 +145724,7 @@ POS: NNP
 POSCON: VBD NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: actions
 WORDCON: U.S. against
@@ -145860,7 +145860,7 @@ POS: NNP
 POSCON: VB .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Israel OMEGA
@@ -145948,7 +145948,7 @@ POS: NNP
 POSCON: CD NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Navy
 WORDCON: U.S. planes
@@ -146084,7 +146084,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: craft
 WORDCON: U.S. .
@@ -146196,7 +146196,7 @@ POS: NNP
 POSCON: IN VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: has
 WORDCON: Libya built
@@ -146308,7 +146308,7 @@ POS: NNP
 POSCON: WDT VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: says
 WORDCON: Libya is
@@ -146532,7 +146532,7 @@ POS: NNP
 POSCON: DT VBZ
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: has
 WORDCON: U.S. the
@@ -146948,7 +146948,7 @@ POS: NNP
 POSCON: IN VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: gives
 WORDCON: Israel up
@@ -148500,7 +148500,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: of
 WORDCON: Canada two
@@ -149260,7 +149260,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: astronaut
 WORDCON: U.S. corps
@@ -150020,7 +150020,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Tech
 WORDCON: Tennessee in
@@ -150116,7 +150116,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Tech
 WORDCON: Virginia .
@@ -150404,7 +150404,7 @@ POS: NNP
 POSCON: IN OMEGAPOS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: KHARTOUM
 WORDCON: PHI ,
@@ -150428,7 +150428,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Sudan AP
@@ -150548,7 +150548,7 @@ POS: NNP
 POSCON: JJ IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: in
 WORDCON: Sudan the
@@ -151860,7 +151860,7 @@ POS: NNP
 POSCON: JJ .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Sudan OMEGA
@@ -152852,7 +152852,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Oklahoma said
@@ -154212,7 +154212,7 @@ POS: NNP
 POSCON: DT WDT
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: that
 WORDCON: Nicaragua chose
@@ -154396,7 +154396,7 @@ POS: NNP
 POSCON: JJ MD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: would
 WORDCON: Nicaragua have
@@ -158292,7 +158292,7 @@ POS: NNP
 POSCON: PHIPOS TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: To
 WORDCON: China Meet
@@ -158324,7 +158324,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: On
 WORDCON: Vietnam Cambodian
@@ -158372,7 +158372,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Thailand AP
@@ -158404,7 +158404,7 @@ POS: NNP
 POSCON: PHIPOS VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: has
 WORDCON: China agreed
@@ -158452,7 +158452,7 @@ POS: NNP
 POSCON: IN JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: next
 WORDCON: Vietnam month
@@ -158860,7 +158860,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Thailand Prince
@@ -158908,7 +158908,7 @@ POS: NNP
 POSCON: PHIPOS VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: supplies
 WORDCON: China arms
@@ -159092,7 +159092,7 @@ POS: NNP
 POSCON: VBD IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: in
 WORDCON: Cambodia late
@@ -159268,7 +159268,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: that
 WORDCON: Vietnam he
@@ -159516,7 +159516,7 @@ POS: NNP
 POSCON: IN MD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: will
 WORDCON: China consider
@@ -159564,7 +159564,7 @@ POS: NNP
 POSCON: IN ``
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: `
 WORDCON: Vietnam `
@@ -159676,7 +159676,7 @@ POS: NNP
 POSCON: CC VBP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: have
 WORDCON: China indicated
@@ -159900,7 +159900,7 @@ POS: NNP
 POSCON: VB JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: next
 WORDCON: China month
@@ -160220,7 +160220,7 @@ POS: NNP
 POSCON: IN JJ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: next
 WORDCON: Afghanistan month
@@ -160388,7 +160388,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Cambodia OMEGA
@@ -160564,7 +160564,7 @@ POS: NNP
 POSCON: RB ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: China the
@@ -160644,7 +160644,7 @@ POS: NNP
 POSCON: VB VB
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: occupy
 WORDCON: Vietnam Cambodia
@@ -160660,7 +160660,7 @@ POS: NNP
 POSCON: VB ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Cambodia '
@@ -160844,7 +160844,7 @@ POS: NNP
 POSCON: VBN TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: China agree
@@ -160892,7 +160892,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Vietnam OMEGA
@@ -160972,7 +160972,7 @@ POS: NNP
 POSCON: IN -RRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -RRB-
 WORDCON: China accepts
@@ -161212,7 +161212,7 @@ POS: NNP
 POSCON: VB POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Vietnam minister
@@ -161452,7 +161452,7 @@ POS: NNP
 POSCON: IN TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Vietnam maintain
@@ -161548,7 +161548,7 @@ POS: NNP
 POSCON: PHIPOS CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: China Vietnam
@@ -161564,7 +161564,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Vietnam once
@@ -161684,7 +161684,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Vietnam invasion
@@ -161716,7 +161716,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Cambodia OMEGA
@@ -161732,7 +161732,7 @@ POS: NNP
 POSCON: PHIPOS VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: has
 WORDCON: Vietnam made
@@ -161804,7 +161804,7 @@ POS: NNP
 POSCON: TO IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: in
 WORDCON: China recent
@@ -161996,7 +161996,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Cambodia OMEGA
@@ -162068,7 +162068,7 @@ POS: NNP
 POSCON: VBD POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: China position
@@ -162772,7 +162772,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Cambodia 8
@@ -162900,7 +162900,7 @@ POS: NNP
 POSCON: PHIPOS VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: has
 WORDCON: Vietnam said
@@ -163036,7 +163036,7 @@ POS: NNP
 POSCON: PHIPOS VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: says
 WORDCON: Vietnam it
@@ -163172,7 +163172,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Cambodia OMEGA
@@ -166084,7 +166084,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Poland AP
@@ -167060,7 +167060,7 @@ POS: NNP
 POSCON: PHIPOS RB
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: really
 WORDCON: Poland doesn
@@ -167356,7 +167356,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Ohio AP
@@ -168876,7 +168876,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Canada was
@@ -172140,7 +172140,7 @@ POS: NNP
 POSCON: , -LRB-
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: -LRB-
 WORDCON: Italy AP
@@ -173548,7 +173548,7 @@ POS: NNP
 POSCON: IN VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ruled
 WORDCON: Canada that
@@ -174476,7 +174476,7 @@ POS: NNP
 POSCON: PRP POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Canada national
@@ -175796,7 +175796,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: University
 WORDCON: Washington .
@@ -177924,7 +177924,7 @@ POS: NNP
 POSCON: DT NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: outlook
 WORDCON: U.S. and
@@ -178764,7 +178764,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Venezuela for
@@ -181196,7 +181196,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Canada and
@@ -182404,7 +182404,7 @@ POS: NNP
 POSCON: JJ TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Pennsylvania New
@@ -182852,7 +182852,7 @@ POS: NNP
 POSCON: JJ IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: across
 WORDCON: Ohio the
@@ -182876,7 +182876,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Tennessee to
@@ -182908,7 +182908,7 @@ POS: NNP
 POSCON: JJ .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -183012,7 +183012,7 @@ POS: NNP
 POSCON: JJ CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Texas south
@@ -183044,7 +183044,7 @@ POS: NNP
 POSCON: JJ .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Oklahoma OMEGA
@@ -183108,7 +183108,7 @@ POS: NNP
 POSCON: JJR CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Mississippi Tennessee
@@ -183124,7 +183124,7 @@ POS: NNP
 POSCON: CC NNS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: valleys
 WORDCON: Tennessee in
@@ -183188,7 +183188,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Tennessee Kentucky
@@ -183204,7 +183204,7 @@ POS: NNP
 POSCON: , CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Kentucky northern
@@ -183228,7 +183228,7 @@ POS: NNP
 POSCON: JJ VBG
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: flowing
 WORDCON: Alabama near
@@ -183420,7 +183420,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Mexico with
@@ -183668,7 +183668,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Montana with
@@ -183900,7 +183900,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: California destroying
@@ -184324,7 +184324,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Texas OMEGA
@@ -184468,7 +184468,7 @@ POS: NNP
 POSCON: JJ IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: across
 WORDCON: Texas the
@@ -184500,7 +184500,7 @@ POS: NNP
 POSCON: JJR NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Mississippi ,
@@ -184548,7 +184548,7 @@ POS: NNP
 POSCON: , NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Tennessee and
@@ -184708,7 +184708,7 @@ POS: NNP
 POSCON: JJS ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Texas New
@@ -184732,7 +184732,7 @@ POS: NNP
 POSCON: NNP CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Mexico the
@@ -185052,7 +185052,7 @@ POS: NNP
 POSCON: JJ ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Utah southwest
@@ -185076,7 +185076,7 @@ POS: NNP
 POSCON: JJ CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Wyoming southeast
@@ -185100,7 +185100,7 @@ POS: NNP
 POSCON: RB :
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ;
 WORDCON: Idaho in
@@ -185164,7 +185164,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Mississippi across
@@ -185340,7 +185340,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Missouri and
@@ -185372,7 +185372,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Valley
 WORDCON: Ohio to
@@ -185476,7 +185476,7 @@ POS: NNP
 POSCON: JJ CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Texas Oklahoma
@@ -185492,7 +185492,7 @@ POS: NNP
 POSCON: CC ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Oklahoma and
@@ -185572,7 +185572,7 @@ POS: NNP
 POSCON: NNP RB
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: as
 WORDCON: California well
@@ -185684,7 +185684,7 @@ POS: NNP
 POSCON: JJ TO
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: to
 WORDCON: Florida the
@@ -185868,7 +185868,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Peninsula
 WORDCON: Florida .
@@ -187988,7 +187988,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Utah claims
@@ -190196,7 +190196,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: California officials
@@ -192092,7 +192092,7 @@ POS: NNP
 POSCON: NNP POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: California deserts
@@ -193572,7 +193572,7 @@ POS: NNP
 POSCON: DT NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Department
 WORDCON: California of
@@ -193796,7 +193796,7 @@ POS: NNP
 POSCON: NNP NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Edison
 WORDCON: California in
@@ -194092,7 +194092,7 @@ POS: NNP
 POSCON: VBD NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Highway
 WORDCON: California Patrol
@@ -203068,7 +203068,7 @@ POS: NNP
 POSCON: NNP OMEGAPOS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: By
 WORDCON: PHI KATHRYN
@@ -203332,7 +203332,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Japan after
@@ -203540,7 +203540,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Japan '
@@ -203788,7 +203788,7 @@ POS: NNP
 POSCON: IN .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: Japan OMEGA
@@ -203820,7 +203820,7 @@ POS: NNP
 POSCON: IN IN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: on
 WORDCON: Japan an
@@ -205476,7 +205476,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Japan will
@@ -205964,7 +205964,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Mutual
 WORDCON: Washington Tower
@@ -207580,7 +207580,7 @@ POS: NNP
 POSCON: VBD NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Galle
 WORDCON: Virginia ,
@@ -208724,7 +208724,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington agreed
@@ -209044,7 +209044,7 @@ POS: NNP
 POSCON: NNP ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: Washington he
@@ -212604,7 +212604,7 @@ POS: NNP
 POSCON: IN NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Secretary
 WORDCON: U.S. William
@@ -212652,7 +212652,7 @@ POS: NNP
 POSCON: PHIPOS NNP
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Gov.
 WORDCON: Illinois James
@@ -216500,7 +216500,7 @@ POS: NNP
 POSCON: VBZ VBD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: had
 WORDCON: Florida an
@@ -217292,7 +217292,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Louisiana reform-minded
@@ -222948,7 +222948,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Washington national
@@ -223164,7 +223164,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Mexico government
@@ -224124,7 +224124,7 @@ POS: NNP
 POSCON: PHIPOS VBZ
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: is
 WORDCON: Mexico exporting
@@ -224452,7 +224452,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: Mexico energy
@@ -224764,7 +224764,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: Mexico enjoy
@@ -224908,7 +224908,7 @@ POS: NNP
 POSCON: PHIPOS NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: airlines
 WORDCON: U.S. have
@@ -225884,7 +225884,7 @@ POS: NNP
 POSCON: CD NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: airlines
 WORDCON: U.S. .
@@ -227356,7 +227356,7 @@ POS: NNP
 POSCON: CC NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Air
 WORDCON: U.S. .
@@ -227388,7 +227388,7 @@ POS: NNP
 POSCON: DT NNS
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: inspections
 WORDCON: U.S. will
@@ -227692,7 +227692,7 @@ POS: NNP
 POSCON: IN NN
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: aircraft
 WORDCON: U.S. but
@@ -228364,7 +228364,7 @@ POS: NNP
 POSCON: IN VBP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: probe
 WORDCON: U.S. unrelated
@@ -232748,7 +232748,7 @@ POS: NNP
 POSCON: WRB NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: District
 WORDCON: U.S. Court
@@ -233532,7 +233532,7 @@ POS: NNP
 POSCON: JJ NNP
 ABBR: yes
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: Circuit
 WORDCON: U.S. Court
@@ -233749,4 +233749,3 @@ POSCON: NN OMEGAPOS
 ABBR: yes
 CAP: no
 LOCATION: no
-

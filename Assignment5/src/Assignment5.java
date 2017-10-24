@@ -30,7 +30,7 @@ public class Assignment5 {
 			String currentLine = "";
 			while((currentLine = bf.readLine())!=null)
 			{
-				if("".equals(currentLine) && !locations.contains(currentLine))
+				if(!"".equals(currentLine) && !locations.contains(currentLine))
 				{
 					locations.add(currentLine);
 				}
@@ -65,7 +65,8 @@ public class Assignment5 {
 				features.put("next-pos-OMEGAPOS", features.size()+1);
 			 }
 			generateFeatures(trainFile,locations,fTypes,trainingWords,trainingPOS,features,false);
-			//featureVector(trainFile,locations,fTypes,trainingWords,trainingPOS,false);
+			generateFeatures(testFile,locations,fTypes,trainingWords,trainingPOS,features,true);
+			
 		}
 		catch(Exception e)
 		{
@@ -112,22 +113,50 @@ public class Assignment5 {
 					{				
 						String[] previousSplit = split(fileContents.get(i-1),-1,"WORDCON",trainingWords,flag);
 						String[] nextSplit = split(fileContents.get(i+1),1,"WORDCON",trainingWords,flag);
-						tr.add(features.get("prev-word-"+previousSplit[2]));
-						tr.add(features.get("next-word-"+nextSplit[2]));
+						if (features.containsKey("prev-word-"+previousSplit[2])) {
+							tr.add(features.get("prev-word-"+previousSplit[2]));
+						}
+						else
+						{
+							tr.add(features.get("prev-word-UNK"));
+						}
+						if (features.containsKey("next-word-"+nextSplit[2])) {
+
+							tr.add(features.get("next-word-"+nextSplit[2]));
+						}
+						else
+						{
+							tr.add(features.get("next-word-UNK"));
+						}
+						
 					}
 					if(i==0 && i!=fileContents.size()-1)
 					{	
 					    String[] nextSplit = split(fileContents.get(i+1),1,"WORDCON",trainingWords,flag);
 						
 						tr.add(features.get("prev-word-PHI"));
-						tr.add(features.get("next-word-"+nextSplit[2]));
+						
+						if (features.containsKey("next-word-"+nextSplit[2])) {
+
+							tr.add(features.get("next-word-"+nextSplit[2]));
+						}
+						else
+						{
+							tr.add(features.get("next-word-UNK"));
+						}
 					}
 					if(i!=0 && i==fileContents.size()-1)
 					{	
 						String[] previousSplit = split(fileContents.get(i-1),-1,"WORDCON",trainingWords,flag);						
 						
 						tr.add(features.get("next-word-OMEGA"));
-						tr.add(features.get("prev-word-"+previousSplit[2]));
+						if (features.containsKey("prev-word-"+previousSplit[2])) {
+							tr.add(features.get("prev-word-"+previousSplit[2]));
+						}
+						else
+						{
+							tr.add(features.get("prev-word-UNK"));
+						}
 					}
 				}
 				else
@@ -153,20 +182,48 @@ public class Assignment5 {
 					if(i!=0 && i!=fileContents.size()-1)					{
 						String[] previousSplit = split(fileContents.get(i-1),-1,"POSCON",trainingPOS,flag);
 						String[] nextSplit = split(fileContents.get(i+1),1,"POSCON",trainingPOS,flag);						
-						tr.add(features.get("prev-pos-"+previousSplit[1]));
-						tr.add(features.get("next-pos-"+nextSplit[1]));
+						
+						if (features.containsKey("prev-pos-"+previousSplit[1])) {
+							tr.add(features.get("prev-pos-"+previousSplit[1]));
+						}
+						else
+						{
+							tr.add(features.get("prev-pos-UNKPOS"));
+						}
+						if (features.containsKey("next-pos-"+nextSplit[1])) {
+
+							tr.add(features.get("next-pos-"+nextSplit[1]));
+						}
+						else
+						{
+							tr.add(features.get("next-pos-UNKPOS"));
+						}
 						
 					}
 					if(i==0 && i!=fileContents.size()-1)					{					
 						
 						String[] nextSplit = split(fileContents.get(i+1),1,"POSCON",trainingPOS,flag);
 						tr.add(features.get("prev-pos-PHIPOS"));
-						tr.add(features.get("next-pos-"+nextSplit[1]));
+						
+						if (features.containsKey("next-pos-"+nextSplit[1])) {
+
+							tr.add(features.get("next-pos-"+nextSplit[1]));
+						}
+						else
+						{
+							tr.add(features.get("next-pos-UNKPOS"));
+						}
 					}
 					if(i!=0 && i==fileContents.size()-1)
 					{			
 						String[] previousSplit = split(fileContents.get(i-1),-1,"POSCON",trainingPOS,flag);				
-						tr.add(features.get("prev-pos-"+previousSplit[1]));
+						if (features.containsKey("prev-pos-"+previousSplit[1])) {
+							tr.add(features.get("prev-pos-"+previousSplit[1]));
+						}
+						else
+						{
+							tr.add(features.get("prev-pos-UNKPOS"));
+						}
 						tr.add(features.get("next-pos-OMEGAPOS"));
 					}
 				}
@@ -223,13 +280,13 @@ public class Assignment5 {
 						
 					}
 				}
-				else
+				else 
 				{
 					
 				}		
 				
-				HashMap<String,Integer> labels = new HashMap();
-				labels.put("O", 0); labels.put("B-PER", 1);labels.put("I-PER", 2);labels.put("B-LOC", 3);labels.put("I-LOC", 4);labels.put("B-ORG", 5); labels.put("I-ORG", 6);
+				HashMap<String,String> labels = new HashMap();
+				labels.put("O", "0"); labels.put("B-PER", "1");labels.put("I-PER", "2");labels.put("B-LOC", "3");labels.put("I-LOC", "4");labels.put("B-ORG", "5"); labels.put("I-ORG", "6");
 				bf1.write(labels.get(currentLineSplit[0]));
 				for(int next:tr)
 				{
@@ -245,7 +302,7 @@ public class Assignment5 {
 		}	
 		catch(Exception e)
 		{
-			
+			e.printStackTrace();
 		}	
 				
 	}
@@ -493,6 +550,9 @@ public class Assignment5 {
 				}
 				if(fTypes.contains("LOCATION"))
 				{
+					if(currentLineSplit[2].equals("Israel")) {
+						System.out.println("checking");
+					}
 					if(locations.contains(currentLineSplit[2]))
 					{
 						bf1.write("LOCATION: yes");
