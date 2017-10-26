@@ -44,7 +44,7 @@ public class compare {
 	
 	public static void main(String[] args) {
 		compare c = new compare();
-		System.out.println(c.compare("test.txt.readable", "test.txt.readable.ALL"));
+		System.out.println(c.compare("train.txt.readable", "train.txt.readable.ALL"));
 	}
 	
 

@@ -38,6 +38,8 @@ public class Assignment5 {
 			f.close();
 			bf.close();
 			readable(trainFile,locations,fTypes,trainingWords,trainingPOS,features,false);
+			trainingWords = getTrainingWords(trainFile);
+			trainingPOS = getTrainingPOS(trainFile);
 			readable(testFile,locations,fTypes,trainingWords,trainingPOS,features,true);
 			features.put("capitalized", features.size()+1);
 			features.put("abbr", features.size()+1);
@@ -65,6 +67,8 @@ public class Assignment5 {
 				features.put("next-pos-OMEGAPOS", features.size()+1);
 			 }
 			generateFeatures(trainFile,locations,fTypes,trainingWords,trainingPOS,features,false);
+			trainingWords = getTrainingWords(trainFile);
+			trainingPOS = getTrainingPOS(trainFile);
 			generateFeatures(testFile,locations,fTypes,trainingWords,trainingPOS,features,true);
 			
 		}
@@ -74,6 +78,65 @@ public class Assignment5 {
 		}		
 	}
 	
+	private HashSet getTrainingPOS(String trainFile) {
+		
+
+		// TODO Auto-generated method stub
+		HashSet trainingPOS = new HashSet<String>();
+		FileReader f;
+		
+		try {
+			f = new FileReader(trainFile);			
+			BufferedReader bf = new BufferedReader(f);
+			String currentLine = "";
+			while((currentLine = bf.readLine())!=null)
+			{				
+				if(!currentLine.equals("")) {
+					String[] currentLineSplit = split(currentLine,0,"",trainingPOS,false);
+					if(!trainingPOS.contains(currentLineSplit[1]))
+					 {
+						trainingPOS.add(currentLineSplit[1]);						
+					 }
+				}
+							
+			}
+		}
+		catch(Exception e) {
+			
+		}
+		
+		return trainingPOS;
+	
+	}
+
+	private HashSet getTrainingWords(String trainFile) {
+		// TODO Auto-generated method stub
+		HashSet trainingWords = new HashSet<String>();
+		FileReader f;
+		
+		try {
+			f = new FileReader(trainFile);			
+			BufferedReader bf = new BufferedReader(f);
+			String currentLine = "";
+			while((currentLine = bf.readLine())!=null)
+			{				
+				if(!currentLine.equals("")) {
+					String[] currentLineSplit = split(currentLine,0,"",trainingWords,false);
+					if(!trainingWords.contains(currentLineSplit[2]))
+					 {
+						trainingWords.add(currentLineSplit[2]);						
+					 }
+				}
+							
+			}
+		}
+		catch(Exception e) {
+			
+		}
+		
+		return trainingWords;
+	}
+
 	private void generateFeatures(String trainFile, HashSet locations, HashSet fTypes, HashSet trainingWords,
 			HashSet trainingPOS, HashMap<String, Integer> features, boolean flag) {
 
@@ -550,10 +613,7 @@ public class Assignment5 {
 				}
 				if(fTypes.contains("LOCATION"))
 				{
-					if(currentLineSplit[2].equals("Israel")) {
-						System.out.println("checking");
-					}
-					if(locations.contains(currentLineSplit[2]))
+									if(locations.contains(currentLineSplit[2]))
 					{
 						bf1.write("LOCATION: yes");
 						bf1.newLine();
@@ -566,7 +626,8 @@ public class Assignment5 {
 				}
 				else
 				{
-					
+					bf1.write("LOCATION: n/a");
+					bf1.newLine();
 				}			
 				bf1.newLine();
 			
