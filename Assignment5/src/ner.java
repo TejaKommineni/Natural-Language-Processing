@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.TreeSet;
 
-public class Assignment5 {
+public class ner {
 
 	private void generateReadable(String[] args) {
 		
@@ -648,7 +648,7 @@ public class Assignment5 {
 
 	public static void main(String[] args) {
 
-		Assignment5 a5 = new Assignment5();
+		ner a5 = new ner();
 		a5.generateReadable(args);
 	}
 }

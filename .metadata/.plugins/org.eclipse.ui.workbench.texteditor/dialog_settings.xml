@@ -2,12 +2,15 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="Israel" key="selection"/>
+		<item value="checking" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="checking"/>
+			<item value="Split("/>
+			<item value="Split"/>
 			<item value="Israel"/>
 			<item value="OMEGA"/>
 			<item value="0.0"/>
@@ -20,9 +23,6 @@
 			<item value="phi Wol"/>
 			<item value="phi Wo"/>
 			<item value="phi wo"/>
-			<item value="phi w"/>
-			<item value="phi"/>
-			<item value="gathered"/>
 		</list>
 		<list key="replacehistory">
 			<item value=""/>
